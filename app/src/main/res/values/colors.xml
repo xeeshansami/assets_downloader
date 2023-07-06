@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorRedButton">#D53F45</color>
+    <color name="colorGreenButton">#229D7D</color>
+    <color name="colorGreenButtonDisabled">#80229D7D</color>
+    <color name="backButtonColorBg">#DEDEE5</color>
+    <color name="backButtonColorTxt">#ACACAF</color>
+    <color name="fillprgoress">#74b9ff</color>
+    <color name="unfillprgoress">#ecedef</color>
+    <color name="colorGray">#6D6D77</color>
+
+    <color name="red">#FF0000</color>
+    <color name="green">#229D7D</color>
+    <color name="yellow">#FFE600</color>
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorSelection">#80000000</color>
+
+    <color name="colorLightBlack">#000000</color>  <!--Cif heading -->
+    <color name="colorDarkGreen">#00574B</color>
+    <color name="colorLightGreen">#22AB91</color>
+    <color name="colorLightGreenClick">#E256AA9A</color>
+    <color name="colorDarkGray">#34334B</color>         <!--editext =hint-->
+    <color name="colorRed">#FF0000</color>         <!--editext =hint-->
+    <color name="errColor">#BD0000</color>         <!--editext =hint-->
+    <color name="colorPurple">#8C54FF</color>
+    <color name="colorBlue">#5400FF</color>
+    <color name="colorBlueLight">#6F2BFB</color>
+    <color name="screenBg">#FAFAFA</color>
+
+    <color name="colorStepSeparator">#F4F4F6</color>
+
+    <color name="colorLightPink">#fb97a5</color>
+    <color name="colorSeaGreen">#b2d4ab</color>
+
+    <color name="colorUnderline">#E0E0E4</color>
+
+
+    <color name="colorGrayText">#9999A5</color>             <!--Labels Textview-->
+    <color name="colorGrayDarkText">#58585E</color>             <!--Labels Textview-->
+    <color name="disabled">#D5D5D5</color>             <!--Labels Textview-->
+    <color name="colorLightGray">#F1F1F4</color>             <!--Labels Textview-->
+    <color name="welcomeTextColor">#139775</color>
+</resources>
